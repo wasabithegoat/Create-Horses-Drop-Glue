@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "horseglue:horse_glue" },
+    { "item": "create:iron_sheet" }
+  ],
+  "result": { "id": "create:super_glue", "count": 1 }
+}

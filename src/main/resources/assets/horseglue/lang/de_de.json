@@ -1,0 +1,28 @@
+{
+	"itemGroup.horseglue": "Beispiel Create-Erweiterung",
+	"itemGroup.horseglue.main_tab": "Hauptreiter",
+
+	"block.horseglue.horseglue_kinetic_block": "Beispiel-Kinetikblock",
+	"block.horseglue.horseglue_generator_block": "Beispiel-Generatorblock",
+
+	"item.horseglue.horseglue_item": "Beispielgegenstand",
+	"item.horseglue.horseglue_result": "Beispielergebnis",
+	"item.horseglue.incomplete_example": "Unvollständiges Beispiel",
+
+	"gui.horseglue.horseglue_generator.generating": "Erzeugt Rotation",
+	"gui.horseglue.horseglue_kinetic.consuming": "Verbraucht Belastung",
+	"gui.horseglue.rpm": "%s UPM",
+	"gui.horseglue.su": "%s SU",
+
+	"display_source.horseglue.horseglue_source": "Kinetische Geschwindigkeit",
+
+	"item.horseglue.horseglue_item.tooltip.summary": "Ein Vorführgegenstand für die _Beispiel-Erweiterung_.",
+	"item.horseglue.horseglue_item.tooltip.condition1": "Wenn gehalten",
+	"item.horseglue.horseglue_item.tooltip.behaviour1": "Zeigt diese Beschreibung – ermöglicht durch Creates _ItemDescription_-Tooltip-System.",
+
+	"horseglue.ponder.horseglue_ponder.header": "Willkommen bei der Beispiel-Erweiterung",
+	"horseglue.ponder.horseglue_ponder.text_1": "Jeder Block hier wird aus horseglue_ponder.nbt geladen",
+	"horseglue.ponder.horseglue_ponder.text_2": "Blockentitäten wie dieses Schild werden dargestellt und ticken wie in der Welt",
+	"horseglue.ponder.horseglue_ponder.text_3": "Zwei mechanische Arme flankieren das Schild und beweisen, dass auch Creates eigene Blöcke funktionieren",
+	"horseglue.ponder.horseglue_ponder.text_4": "Du kannst auch den blöcken rpm werte geben"
+}

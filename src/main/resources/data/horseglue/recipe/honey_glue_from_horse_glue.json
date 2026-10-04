@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "simulated" }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "horseglue:horse_glue" },
+    { "item": "minecraft:honey_bottle" },
+    { "item": "create:iron_sheet" }
+  ],
+  "result": { "id": "simulated:honey_glue", "count": 1 }
+}

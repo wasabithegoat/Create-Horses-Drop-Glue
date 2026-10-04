@@ -9,7 +9,6 @@ version = mod_version
 group = mod_group_id
 
 // Template bootstrap task: ./gradlew renameMod --name "Your Mod"
-apply from: 'gradle/rename-mod.gradle'
 
 repositories {
     mavenCentral()

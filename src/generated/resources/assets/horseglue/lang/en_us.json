@@ -1,0 +1,13 @@
+{
+  "display_source.horseglue.horseglue_source": "Kinetic Speed",
+  "gui.horseglue.horseglue_generator.generating": "Generating rotation",
+  "gui.horseglue.horseglue_kinetic.consuming": "Drawing stress",
+  "gui.horseglue.rpm": "%s RPM",
+  "gui.horseglue.su": "%s SU",
+  "item.horseglue.horse_glue": "Horse Hoof",
+  "item.horseglue.horseglue_item.tooltip.behaviour1": "Reveals this description, powered by Create's _ItemDescription_ tooltip system.",
+  "item.horseglue.horseglue_item.tooltip.condition1": "When Held",
+  "item.horseglue.horseglue_item.tooltip.summary": "A showcase item for the _Example Addon_.",
+  "itemGroup.horseglue": "Horse Glue",
+  "itemGroup.horseglue.main_tab": "Main Tab"
+}

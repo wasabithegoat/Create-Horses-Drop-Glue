@@ -1,0 +1,10 @@
+{
+	"itemGroup.horseglue": "Horse Glue",
+
+	"gui.horseglue.horseglue_generator.generating": "Generating rotation",
+	"gui.horseglue.horseglue_kinetic.consuming": "Drawing stress",
+	"gui.horseglue.rpm": "%s RPM",
+	"gui.horseglue.su": "%s SU",
+
+	"display_source.horseglue.horseglue_source": "Kinetic Speed"
+}
